@@ -149,6 +149,7 @@ assigning to an argument::
   g(l)
   print 'after g:', l
 
+.. _nested functions:
 
 Nested Functions
 ----------------

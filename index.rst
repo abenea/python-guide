@@ -13,3 +13,4 @@ Contents:
 
    introduction
    functions
+   classes
