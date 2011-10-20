@@ -14,3 +14,5 @@ Contents:
    introduction
    functions
    classes
+   iterators
+   collections
