@@ -41,7 +41,7 @@ The most common data structure in Python is the list (similar to the C++
 Another common data structure is the tuple (an immutable list)::
 
   x = (1, 2)
-  assert x[1] == 1
+  assert x[1] == 2
 
 Lists, tuples and strings are sequences. More information about sequences can be
 found in `Sequence Types
