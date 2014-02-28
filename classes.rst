@@ -607,8 +607,8 @@ The default string representation is not very useful. Let's change it::
 When evaluating ``str(object)`` Python will fall back to **__repr__** if
 **__str__** is not defined (but not the other way around).
 
-The Python shell prints will print the :func:`repr` form for the results of
-typed expressions.
+The Python shell will print the :func:`repr` form for the results of typed
+expressions.
 
 Exercise
 ++++++++
